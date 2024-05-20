@@ -1,2 +1,4 @@
-# twpkg
-.sprite3 files compatible with turbowarp, not scratch
+# TWpkg
+useful sprite3 files for turbowarp projects (unmodded scratch/not based on turbowarp not supported)
+to be used for various purposes
+like text, conversion etc.
